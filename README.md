@@ -1,2 +1,2 @@
 # UniversityManagementSystem
-This is Repo is created for group project of Mitesh and Janvi
+This is Repo is created for group project of Mitesh 
